@@ -27,7 +27,9 @@ Kid.Finance 将在北京时间 2020/10/05 21:00开始。
 对于社区所产出的KID令牌数量，运营团队获得铸造该数量的10％KID到创世地址，将用于Kid.Finance生态系统和未来开发，营销，审计等。且每次动用团队KID会进行公告！
 
 KID Token
+
 总量:15000
+
 令牌合约:https://tronscan.io/#/token20/TBDUswpeVJV6LzhfcDgaDZ4n7tFHkPzaYf
 
 HT Pool      
