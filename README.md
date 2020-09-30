@@ -35,16 +35,19 @@ KID Token
 HT Pool      
 总量:200 
 首周产出100KID每周减半，五周产完。
+
 智能合约:https://tronscan.io/#/contract/TPxZuEavQZgwcEqZk3Jc8RJGcBbh4sX2Qs/code
 
 SUN Pool   
 总量:200
 首周产出100KID每周减半，五周产完。
+
 智能合约:https://tronscan.io/#/contract/TDQW5ByrNKExE72514mYmcY8mHsJXZpDXM/code
 
 USDT Pool 
 总量:200
 首周产出100KID每周减半，五周产完。
+
 智能合约:https://tronscan.io/#/contract/TSq7gEZtzP1oJN529qveoTedLZqK67sp24/code
 
 KID/TRX Pool
