@@ -1,6 +1,7 @@
 # kid.finance
 Kid.Finance实验协议
 https://Kid.Finance
+
 Kid.Finance是一个令人兴奋的新流动性挖矿开源的Defi+NFT实验项目，由DNFT(小丑)网络协议打造出品。
 Kid.Finance是在Tron网络（领先的区块链平台之一）上创建的。现阶段，Kid.Finance 处于beta实验阶段，Kid.Finance 协议基于TRC20令牌KID
 
@@ -36,19 +37,19 @@ HT Pool
 总量:200 
 首周产出100KID每周减半，五周产完。
 
-智能合约:https://tronscan.io/#/contract/TPxZuEavQZgwcEqZk3Jc8RJGcBbh4sX2Qs/code
+智能合约:https://tronscan.io/#/contract/TFH3ozr9ziu7GYSp1geoCszaDW1gJmgPuX/code
 
 SUN Pool   
 总量:200
 首周产出100KID每周减半，五周产完。
 
-智能合约:https://tronscan.io/#/contract/TDQW5ByrNKExE72514mYmcY8mHsJXZpDXM/code
+智能合约:https://tronscan.io/#/contract/TAiP7BdsBvm3Htckdp3vj5dE5iBSzjhV91/code
 
 USDT Pool 
 总量:200
 首周产出100KID每周减半，五周产完。
 
-智能合约:https://tronscan.io/#/contract/TSq7gEZtzP1oJN529qveoTedLZqK67sp24/code
+智能合约:https://tronscan.io/#/contract/TXvyEDZoGYh9afdjTTyA4M2jh36siYESDB/code
 
 KID/TRX Pool
 总量:9000
@@ -105,17 +106,17 @@ Token contract: https://tronscan.io/#/token20/TBDUswpeVJV6LzhfcDgaDZ4n7tFHkPzaYf
 HT Pool
 Total: 200
 The 100KID output in the first week is halved every week, and the output is finished in five weeks.
-Smart contract: https://tronscan.io/#/contract/TPxZuEavQZgwcEqZk3Jc8RJGcBbh4sX2Qs/code
+Smart contract: https://tronscan.io/#/contract/TFH3ozr9ziu7GYSp1geoCszaDW1gJmgPuX/code
 
 SUN Pool
 Total: 200
 The 100KID output in the first week is halved every week, and the output is finished in five weeks.
-Smart contract: https://tronscan.io/#/contract/TDQW5ByrNKExE72514mYmcY8mHsJXZpDXM/code
+Smart contract: https://tronscan.io/#/contract/TAiP7BdsBvm3Htckdp3vj5dE5iBSzjhV91/code
 
 USDT Pool
 Total: 200
 The 100KID output in the first week is halved every week, and the output is finished in five weeks.
-Smart contract: https://tronscan.io/#/contract/TSq7gEZtzP1oJN529qveoTedLZqK67sp24/code
+Smart contract: https://tronscan.io/#/contract/TXvyEDZoGYh9afdjTTyA4M2jh36siYESDB/code
 
 KID/TRX Pool
 Total: 9000
